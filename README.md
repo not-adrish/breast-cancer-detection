@@ -107,6 +107,7 @@ Classification Report:
 weighted avg       0.97      0.97      0.97       114
 
 ```
+---
 
 ## Findings
 
@@ -127,6 +128,7 @@ weighted avg       0.97      0.97      0.97       114
 
 ### Optuna Optimization History
 ![optimization_history](https://github.com/user-attachments/assets/ec4b287b-5fe2-41ef-a15f-f439f6b19706)
+---
 
 ## Disclaimer:
 This project is for educational and research purposes only. It should not be used as a substitute for professional medical advice or diagnosis. Always consult qualified healthcare professionals for clinical decisions.
@@ -138,3 +140,4 @@ This project is licensed under the MIT license
 Suggestions, forks, and improvements are welcome! If you have ideas to expand this work, feel free to submit a pull request.
 
 # Author: Adrish Das
+---
