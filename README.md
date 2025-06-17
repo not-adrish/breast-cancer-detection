@@ -75,20 +75,20 @@ This model uses **tabular features derived from digitized imaging** (e.g., textu
 |--------------------------|----------------------------|
 | Algorithm                | LightGBM Classifier        |
 | boosting_type               | 'gbdt'                           |
-| num_leaves           | 73          |
-| max_depth           | 7      |
-| learning_rate       | 0.026747318544432883                         |
+| num_leaves           | 94          |
+| max_depth           | 3      |
+| learning_rate       | 0.06119661695834652                        |
 | subsample_for_bin         | 200000                        |
 | class_weight  | None    |
-| n_estimators   |  750                          |
+| n_estimators   |  475                          |
 | min_split_gain   | 0.0                           |
 | min_child_weight    | 0.001                       |
-| mean_child_samples            |    26                        |
-| subsample         | 0.9695963314845428                           |
+| mean_child_samples            |    23                       |
+| subsample         | 0.5810233282559958                           |
 | subsample_freq    | 0                     |
-| colsample_bytree | 	0.7655573144163914 |
-| reg_alpha |	0.5576772599471619           |
-| reg_lambda |	0.0001873660725665396            |
+| colsample_bytree | 	0.5765318146443195 |
+| reg_alpha |	0.6424818973380652          |
+| reg_lambda |	0.0002996507756344334            |
 | random_state     | None       |
 | n_jobs  | None                   |
 | importance_type                 | 'split'                       
