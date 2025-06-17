@@ -61,6 +61,7 @@ This model uses **tabular features derived from digitized imaging** (e.g., textu
 
 
 ### 🔍 Classification Report
+```
 Classification Report:
                precision    recall  f1-score   support
 
@@ -71,4 +72,4 @@ Classification Report:
    macro avg       0.97      0.97      0.97       114
 weighted avg       0.97      0.97      0.97       114
 
-
+```
