@@ -40,8 +40,7 @@ This model uses **tabular features derived from digitized imaging** (e.g., textu
 
 ###  Step-by-step Flowchart
 
-![breast-cancer-flowchart](https://github.com/user-attachments/assets/37fafd17-4016-4499-aa45-bea6d17dcb2a)
-
+![Model Flowchart](https://github.com/user-attachments/assets/e9bfc55e-cada-4714-9532-51503937821b)
 
 ---
 
@@ -117,7 +116,7 @@ weighted avg       0.97      0.97      0.97       114
 ### Correlation Heatmap
 ![corr_heatmap](https://github.com/user-attachments/assets/48419cda-4836-48e3-8929-4d377088b0dc)
 
-# Pairplot of Key Features
+### Pairplot of Key Features
 ![pairplot](https://github.com/user-attachments/assets/c1d48969-d8f9-42f6-a023-6caa7ff2b89c)
 
 ### SHAP Feature Importances
